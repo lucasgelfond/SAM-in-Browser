@@ -2,3 +2,4 @@
 samexporter/
 segment-anything-2/
 models/
+.DS_Store
